@@ -28,3 +28,7 @@ You can install these packages using `pip`:
 
 ```bash
 pip install pandas seaborn
+
+GOOGLE COLLAB LINK:
+
+https://colab.research.google.com/drive/1FCrZyS4eJMH3x8HfKFIaUN7UozpRYSxS?usp=sharing
