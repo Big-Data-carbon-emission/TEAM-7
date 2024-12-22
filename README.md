@@ -30,9 +30,3 @@ You can install these packages using `pip`:
 ```bash
 pip install pandas seaborn
 
-RESULTS:
-
-![image](https://github.com/user-attachments/assets/1150c845-538b-4153-ad75-9fda17856214)
-
-
-
